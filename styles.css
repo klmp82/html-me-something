@@ -1,0 +1,24 @@
+* {
+    background-color: #c0c0c0;
+    margin: auto;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+}
+#headline {
+    font-family: Verdana;
+    text-decoration: underline;
+}
+li {
+    display: inline;
+    text-align: center;
+    text-decoration: none;
+    padding: 0;
+}
+.txtstyle {
+    font-family: Verdana;
+    font-weight: bold;
+    color: #008080;
+}
+body {
+    border: 20px solid #008080;
+}
